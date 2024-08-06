@@ -1,6 +1,6 @@
-# Codetech_task2
+# Codtech_task2
 Name- Sanjana
-Company- CODETECH IT SOLUTION
+Company- CODTECH IT SOLUTION
 ID- CT08DS6472
 Domain- Data Science
 Duartion- August to September 2024
